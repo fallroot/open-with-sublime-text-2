@@ -1,3 +1,7 @@
+**This project has merged to <https://github.com/fallroot/applescript-applets>**
+
+---
+
 # Open with Sublime Text 2
 
 This is a application for using Sublime Text 2 with selected folders or files in Finder (also Path Finder).
